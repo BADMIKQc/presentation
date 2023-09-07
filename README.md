@@ -22,7 +22,7 @@ en 2020
 
 1 modélisation en temps réel 
 
-2 moin lourd ,car c'est juste un logiciel et quelque image et non une scene 4k en 360 
+2 moin lourd ,car c'est juste un logiciel et quelques images, c'est pas une scene 4k en 360 degrés
 
 ## media
  
