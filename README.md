@@ -2,6 +2,8 @@
 
 ## Description
  NeRF c'est pour Neural Radiance Fields
+
+![alt text][media/img/]
  
 Vidéo https://www.youtube.com/watch?v=JuH79E8rdKc
 
