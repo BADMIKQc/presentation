@@ -28,7 +28,7 @@ l'impression utilise du filament fait de plusieur sorte de plastique et apres re
 
 ## media
  
-Vidéo https://www.youtube.com/watch?v=JuH79E8rdKc
+Vidéo https://www.youtube.com/watch?v=lNjNls97wt0&t=56s
 
-site NeRF https://www.matthewtancik.com/nerf
+
 
