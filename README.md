@@ -12,15 +12,19 @@ En 1980, presque un demi-siècle après la sortie de la première imprimante, l�
 l'impression utilise du filament fait de plusieur sorte de plastique et apres rechaufement peux construire en 3d des objets modélisé
 ![filament](media/img/filament.jpg)
 
- ![modele](media/img/impression.jpg)
+ ![impression](media/img/impression.jpg)
 
- ![modele](media/img/objet.jpg)
+ ![objet](media/img/objet.jpg)
 
 ## Utilité
 
-1 modélisation en temps réel 
+1 pas cher le filament ( environ 20$ pour 100 impressions )
 
-2 moin lourd ,car c'est juste un logiciel et quelques images, c'est pas une scene 4k en 360 degrés
+![argent](media/img/argent.jpg)
+
+2 une liberte de creations,possibilité de créer des objet non existant
+
+![meca](media/img/meca.jpg)
 
 ## media
  
