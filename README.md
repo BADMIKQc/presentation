@@ -1,22 +1,20 @@
-# présentation NeRF
+# présentation impression 3D
 
- NeRF c'est pour Neural Radiance Fields
+
  
 ## ça vient d'où
 
 
- Fait par Matthew Tancik, Ben Mildenhall, Pratul P. Srinivasan, Jonathan T. Barron, Ravi Ramamoorthi, et Ren Ng
- 
-en 2020
+En 1980, presque un demi-siècle après la sortie de la première imprimante, l’impression 3D est née
 
 ## Description
 
- En simple, tu prends plusieurs photos et tu peux avoir un modèle ou une scène grâce aux photos et les voir en 3D
-![modele](media/img/camion.PNG)
+l'impression utilise du filament fait de plusieur sorte de plastique et apres rechaufement peux construire en 3d des objets modélisé
+![filament](media/img/filament.jpg)
 
- ![modele](media/img/toy.PNG)
+ ![modele](media/img/impression.jpg)
 
- ![modele](media/img/scenee.PNG)
+ ![modele](media/img/objet.jpg)
 
 ## Utilité
 
