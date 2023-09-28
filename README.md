@@ -13,9 +13,9 @@ les firuines auront des socles et des formes facile à détecter en dessous des 
 ## Artistique 
 des figurines avec socle comme des figurine pop ou d'anime. Par contre, les figurines seront des élément de nature ou autre environement pour changer la scene 3D.
 
+![](media/img/arbre.PNG)
 
-
-
+![](media/img/vague.PNG)
 
 mais voici quelques examples â quoi les figurines pourraient ressembler
 
