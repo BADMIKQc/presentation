@@ -36,7 +36,7 @@ l'impression utilise du filament fait de plusieur sorte de plastique et apres re
 
 ## cotés positifs
 
-1 pas cher le filament ( environ 20$ pour 100 petites impressions )
+1 pas cher le filament 
 
 ![argent](media/img/argent.jpg)
 
