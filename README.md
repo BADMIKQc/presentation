@@ -1,16 +1,24 @@
 # Concept général 
-un univers 3D projeté sur 3 murs gràce à des projecteurs. Cet univers changera dépendamment de l'objet de détection. cette objet sera détecté grâce à une détection d'image depuis l'interieur de la table
+un univers 3D projeté sur 3 murs gràce à des projecteurs. Cet univers changera dépendamment de l'objet de détection. cette objet sera détecté grâce à une détection d'image depuis l'interieur de la table.
+Je vais créer les objet détectés qui seront des figurines avec des socles et des formes facile à détecter en dessous des socles.
+
+![](media/img/projet_finale.PNG)
+
+# Inspirations 
+
+## Conceptuelles
+principalement un brain storm, le concept se raproche du projet AR que nous avons fait avec lora de la detection d'images.
+les firuines auront des socles et des formes facile à détecter en dessous des socles.
+
+## Artistique 
+des figurines avec socle comme des figurine pop ou d'anime. Par contre, les figurines seront des élément de nature ou autre environement pour changer la scene 3D.
 
 
 
-# présentation impression 3D
 
 
- 
-## ça vient d'où
+mais voici quelques examples â quoi les figurines pourraient ressembler
 
-
-En 1980, presque un demi-siècle après la sortie de la première imprimante, l’impression 3D est née
 
 ## Description
 
