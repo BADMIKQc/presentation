@@ -13,14 +13,15 @@ les firuines auront des socles et des formes facile à détecter en dessous des 
 ## Artistique 
 des figurines avec socle comme des figurine pop ou d'anime. Par contre, les figurines seront des élément de nature ou autre environement pour changer la scene 3D.
 
-![](media/img/arbre.PNG)
+voici quelques examples â quoi les figurines pourraient ressembler
+![](media/img/arbre.png)
 
-![](media/img/vague.PNG)
-
-mais voici quelques examples â quoi les figurines pourraient ressembler
+![](media/img/vague.png)
 
 
-## Description
+
+
+## Technique
 
 l'impression utilise du filament fait de plusieur sorte de plastique et apres rechaufement peux construire en 3d des objets modélisé
 ![filament](media/img/filament.jpg)
@@ -29,13 +30,17 @@ l'impression utilise du filament fait de plusieur sorte de plastique et apres re
 
  ![objet](media/img/objet.jpg)
 
-## Utilité
+## Concept spécifique
 
-1 pas cher le filament ( environ 20$ pour 100 impressions )
+
+
+## cotés positifs
+
+1 pas cher le filament ( environ 20$ pour 100 petites impressions )
 
 ![argent](media/img/argent.jpg)
 
-2 une liberte de creations,possibilité de créer des objet non existant
+2 une liberte de creations,possibilité de créer des objet adapté à notre projet
 
 ![meca](media/img/meca.jpg)
 
