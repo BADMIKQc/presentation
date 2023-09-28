@@ -23,7 +23,7 @@ voici quelques examples â quoi les figurines pourraient ressembler
 
 ## Technique
 
-l'impression utilise du filament fait de plusieur sorte de plastique et apres rechaufement peux construire en 3d des objets modélisé
+l'impression utilise du filament fait de plusieur sorte de plastique et apres rechaufement peux construire en 3d des objets modélisé pour ensuite les peinturer et les vernire
 ![filament](media/img/filament.jpg)
 
  ![impression](media/img/impression.jpg)
@@ -32,7 +32,7 @@ l'impression utilise du filament fait de plusieur sorte de plastique et apres re
 
 ## Concept spécifique
 
- ![objet](media/img/figurine.png)
+ ![objet](media/img/figurine_arbre.png)
 
 ## cotés positifs
 
@@ -43,6 +43,13 @@ l'impression utilise du filament fait de plusieur sorte de plastique et apres re
 2 une liberte de creations,possibilité de créer des objet adapté à notre projet
 
 ![meca](media/img/meca.jpg)
+
+
+## Reconnaissance de limites / défis 
+
+avoir une stabilité dans les figurines
+
+risque de vol/brit des figurines
 
 ## media
  
