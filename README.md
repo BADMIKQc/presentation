@@ -1,3 +1,8 @@
+# Concept général 
+un univers 3D projeté sur 3 murs gràce à des projecteurs. Cet univers changera dépendamment de l'objet de détection. cette objet sera détecté grâce à une détection d'image depuis l'interieur de la table
+
+
+
 # présentation impression 3D
 
 
