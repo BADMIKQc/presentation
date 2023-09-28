@@ -32,7 +32,7 @@ l'impression utilise du filament fait de plusieur sorte de plastique et apres re
 
 ## Concept spécifique
 
-
+ ![objet](media/img/figurine.png)
 
 ## cotés positifs
 
