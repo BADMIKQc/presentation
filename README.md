@@ -2,7 +2,7 @@
 un univers 3D projeté sur 3 murs gràce à des projecteurs. Cet univers changera dépendamment de l'objet de détection. cette objet sera détecté grâce à une détection d'image depuis l'interieur de la table.
 Je vais créer les objet détectés qui seront des figurines avec des socles et des formes facile à détecter en dessous des socles.
 
-![](media/img/projet_finale.PNG)
+
 
 # Inspirations 
 
